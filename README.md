@@ -12,6 +12,7 @@
 <br>-python
 <br>-pandas
 <br>-matplotlib.pyplot
+<br>-seaborn
 <br>-numpy
 <br>-Power Point
 
