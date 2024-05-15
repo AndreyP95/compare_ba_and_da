@@ -13,9 +13,13 @@
 
 **Навыки и инструменты:**
 -python
+
 -pandas
+
 -matplotlib.pyplot
+
 -numpy
+
 -Power Point
 
 **Вывод:**
