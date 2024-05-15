@@ -12,7 +12,7 @@
 
 
 **Навыки и инструменты:**
--python
+<br>-python
 
 -pandas
 
